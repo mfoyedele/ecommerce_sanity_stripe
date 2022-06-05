@@ -5,7 +5,7 @@ const date = new Date().getFullYear();
 const Footer = () => {
   return (
     <div className='footer-container'>
-      <p>{date} OMF Headphones All rights reserverd</p>
+      <p>{date} OMF Gadgets Store All rights reserverd</p>
       <p className='icons'>
         <AiFillInstagram />
         <AiOutlineTwitter />
